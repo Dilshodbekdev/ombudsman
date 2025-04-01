@@ -17,7 +17,6 @@ import 'package:ombudsman/src/core/util/funs.dart';
 import 'package:ombudsman/src/features/home/data/body/voting_body.dart';
 import 'package:ombudsman/src/features/home/data/models/language_model.dart';
 import 'package:ombudsman/src/features/home/presentation/manager/home_bloc.dart';
-import 'package:ombudsman/src/features/main/tabs/home/widgets/home_card1_widget.dart';
 import 'package:ombudsman/src/features/main/tabs/home/widgets/home_card_widget.dart';
 import 'package:pie_chart/pie_chart.dart';
 import 'package:toastification/toastification.dart';
